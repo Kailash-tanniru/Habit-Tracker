@@ -1,0 +1,10 @@
+Hi {{ user.username }},
+
+Thank you for registering! Please use the following OTP to verify your email:
+
+OTP: {{ otp }}
+
+This OTP is valid for 5 minutes.
+
+Thanks,
+Your App Team
